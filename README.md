@@ -18,7 +18,7 @@ This project is a banking application that focuses on testing a MySQL database a
 - Java 17+
 - MySQL Community Edition
 - Apache Maven (for dependencies)
-- Apache Spark (for reports)
+- Extent Report (for reports)
 - An IDE (IntelliJ IDEA)
 
  ### Database Schema - Draw.io Diagram
