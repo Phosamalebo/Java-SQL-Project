@@ -11,7 +11,7 @@ This project is a banking application that focuses on testing a MySQL database a
 - **SQL Queries**: Generate and test reports based on customer data.
 - **Java Integration**: Java-based interaction with MySQL for testing purposes.
 - **JUnit Testing**: Dynamic tests for database validation.
-- **Apache Spark Reports**: Generate reports using Spark for data analysis.
+- **Extent Report**: Generate reports using html for data analysis.
 
 ## Setup Instructions
 ### Prerequisites
