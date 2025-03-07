@@ -63,10 +63,10 @@ mvn test
 4. **Constraint Testing**: Check primary keys, foreign keys, and other constraints.
 5. **Negative Testing**: Attempt invalid operations to confirm constraint enforcement.
 
-## Apache Spark Integration
-To generate reports using Spark:
+## Extent Report Integration
+To generate reports using extentReport:
 ```sh
-spark-submit --class reports.SparkReport target/banking-app.jar
+Integrating ExtentReports into your Java project enhances test reporting by generating interactive, detailed HTML reports that provide insights into test execution. 
 ```
 
 ## Contributors
