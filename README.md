@@ -1,4 +1,4 @@
-# Java_SQL_Project
+# SQL_Java_Project
 
 
 ## Project Overview
