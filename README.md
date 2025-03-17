@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-This project is a banking application that focuses on testing a MySQL database after its creation. The application supports verifying customer details, managing accounts, handling transactions, generating reports, and performing dynamic testing using JUnit. Additionally, Apache Spark is integrated for reporting purposes.
+This project is a banking application that focuses on testing a MySQL database after its creation. The application supports verifying customer details, managing accounts, handling transactions, generating reports, and performing dynamic testing using JUnit. Additionally, Extent report is integrated for reporting purposes.
 
 ## Features
 - **Database Testing**: Focus on validating database integrity and constraints.
